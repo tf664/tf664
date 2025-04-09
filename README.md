@@ -29,30 +29,40 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 
 ### Projekte (Auswahl)
 
- <table>
-    <thead>
-      <tr>
-        <th>Projektname</th>
-        <th>Beschreibung</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><code>EnvelopeBaskd</code></td>
-        <td>LetterBoxd Websiteklon im Rahmen des Moduls "Einführung in die Webprogrammierung"</td>
-      </tr>
-      <tr>
-        <td><code>DB-Scraper</code></td>
-        <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
-      </tr>
-    </tbody>
-  </table>
+<table>
+  <tr>
+    <!-- Left column: Project Table -->
+    <td>
 
-  </div>
+      <h3>Projekte (Auswahl)</h3>
 
-  <!-- Side GIF -->
-  <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
-</div>
+      <table>
+        <thead>
+          <tr>
+            <th>Projektname</th>
+            <th>Beschreibung</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>EnvelopeBaskd</code></td>
+            <td>LetterBoxd Websiteklon im Rahmen des Moduls "Einführung in die Webprogrammierung"</td>
+          </tr>
+          <tr>
+            <td><code>DB-Scraper</code></td>
+            <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </td>
+
+    <!-- Right column: Middle GIF -->
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
+    </td>
+  </tr>
+</table>
 
 ### Kontakt
 
