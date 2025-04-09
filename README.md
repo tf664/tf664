@@ -31,35 +31,31 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 
 <table>
   <tr>
-    <!-- Left column: Project Table -->
-    <td>
+    <!-- Left side: Project Table (as plain Markdown-style inside HTML) -->
+    <td style="vertical-align: top;">
 
-      <h3>Projekte (Auswahl)</h3>
+<h3>📂 Projekte (Auswahl)</h3>
 
-      <table>
-        <thead>
-          <tr>
-            <th>Projektname</th>
-            <th>Beschreibung</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><code>EnvelopeBaskd</code></td>
-            <td>LetterBoxd Websiteklon im Rahmen des Moduls "Einführung in die Webprogrammierung"</td>
-          </tr>
-          <tr>
-            <td><code>DB-Scraper</code></td>
-            <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
-          </tr>
-        </tbody>
-      </table>
+<table>
+  <tr>
+    <th>Projektname</th>
+    <th>Beschreibung</th>
+  </tr>
+  <tr>
+    <td><code>EnvelopeBaskd</code></td>
+    <td>LetterBoxd Websiteklon im Rahmen des Moduls "Einführung in die Webprogrammierung"</td>
+  </tr>
+  <tr>
+    <td><code>DB-Scraper</code></td>
+    <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
+  </tr>
+</table>
 
     </td>
 
-    <!-- Right column: Middle GIF -->
-    <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
+    <!-- Right side: GIF -->
+    <td style="vertical-align: top; padding-left: 30px;">
+      <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side GIF" />
     </td>
   </tr>
 </table>
