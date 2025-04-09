@@ -29,33 +29,35 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 
 ### Projekte (Auswahl)
 
-<table>
-  <tr>
-    <!-- Left side: Project descriptions -->
-    <td style="vertical-align: top; width: 70%;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div>
 
-      <h3>📂 Projekte (Auswahl)</h3>
-      <ul>
-        <li>
-          <strong>EnvelopeBaskd</strong><br/>
-          LetterBoxd Websiteklon im Rahmen des Moduls <em>„Einführung in die Webprogrammierung“</em>
-        </li>
-        <br/>
-        <li>
-          <strong>DB-Scraper</strong><br/>
-          Webscraper für routinierte Zugfahrten für Pendler.<br/>
-          Angedacht für Raspberry Pi Anbindung
-        </li>
-      </ul>
+  <!-- Your Projects Table -->
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Projektname</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>EnvelopeBaskd</code></td>
+        <td>LetterBoxd Websiteklon im Rahmen des Moduls "Einführung in die Webprogrammierung"</td>
+      </tr>
+      <tr>
+        <td><code>DB-Scraper</code></td>
+        <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
+      </tr>
+    </tbody>
+  </table>
 
-    </td>
+  </div>
 
-    <!-- Right side: GIF -->
-    <td style="vertical-align: top; padding-left: 30px;">
-      <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side GIF"/>
-    </td>
-  </tr>
-</table>
+  <!-- Side GIF -->
+  <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
+</div>
 
 ### Kontakt
 
