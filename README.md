@@ -31,9 +31,6 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div>
-
-  <!-- Your Projects Table -->
-  
   <table>
     <thead>
       <tr>
@@ -52,7 +49,6 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
       </tr>
     </tbody>
   </table>
-
   </div>
 
   <!-- Side GIF -->
@@ -84,14 +80,24 @@ In my free time, I'm partly building **random projects** or learning new tech
 
 ### Projects (Selection)
 
-| Projektname        | Beschreibung                                  |
-|--------------------|-----------------------------------------------|
-| `EnvelopeBaskd`    | LetterBoxd website clone as part of the       |
-|                    |  module "Einführung in die Webprogrammierung" |
-|                    |                                               |
-| `DB-Scraper`       | Web scraper for routine train journeys for    |
-|                    | commuters. Intended for RasberryPi connection |
-
+ <table>
+    <thead>
+      <tr>
+        <th>Projektname</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>EnvelopeBaskd</code></td>
+        <td> LetterBoxd website clone as part of the module "Einführung in die Webprogrammierung"</td>
+      </tr>
+      <tr>
+        <td><code>DB-Scraper</code></td>
+        <td> Web scraper for routine train journeys for commuters. Intended for RasberryPi connectiong</td>
+      </tr>
+    </tbody>
+  </table>
 
 ### Contact
 
