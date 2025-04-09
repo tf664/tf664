@@ -106,5 +106,5 @@ In my free time, I'm partly building **random projects** or learning new tech
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" width="600" alt="Footer" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" width="800" alt="Footer" />
 </p>
