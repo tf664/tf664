@@ -1,16 +1,83 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://placehold.co/800x200?text=Hi%2C+ich+bin+<your-username>!" alt="Header Image" />
+</p>
 
-<!--
-**tf664/tf664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#de">🇩🇪 Deutsch</a> • <a href="#en">🇬🇧 English</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🇩🇪 Deutsch <a id="de"></a>
+
+###  Hallöchen!
+
+Ich bin ein dualer Student in **Informatik** an der **IU in Düsseldorf** und arbeite bei Babtec GmbH
+
+In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Technik
+
+### About Me
+
+- 🏳️‍🌈 🚩🏴
+-  Dualer Informatik Student an der IU
+-  Praxispartner: **Babtec GmbH**
+-  Düsseldorf
+-  Tech Stack: hauptsächlich C#,Java, Web (HTML/CSS/JS), .NET, Azure DevOps, YAML, Git
+-  Interessen: Softwareentwicklung, UI/UX, Game Dev, DevOps
+
+
+### Projekte (Auswahl)
+
+| Projektname        | Beschreibung                                  |
+|--------------------|-----------------------------------------------|
+| `EnvelopeBaskd`    | LetterBoxd Websiteklon im Rahmen des Moduls   |
+|                    |  "Einführung in die Webprogrammierung"        |
+|                    |                                               |
+| `DB-Scraper`       | Webscraper für routinierte Zugfahrten für     |
+|                    | Pendler. Angedacht für RasberryPI Anbindung   |
+
+
+### Kontakt
+
+- 📯 LinkedIn: [bald](https://linkedin.com/in/placeholder)
+
+---
+
+## 🇬🇧 English <a id="en"></a>
+
+###  Hello there!
+
+I'm a dual student in **Computer Science** at **IU International University in Düsseldorf**, working at **Babtec GmbH** alongside my studies.
+
+In my free time, I'm partly building **random projects** or learning new tech
+
+### About Me
+
+- 🏳️‍🌈 🚩🏴
+-  Dual student at IU (Computer Science)
+-  Practical partner: **Babtec GmbH**
+-  Based in: Düsseldorf, Germany
+-  Tech Stack: mostly C#,Java, Web (HTML/CSS/JS), .NET, Azure DevOps, YAML, Git
+-  Interests: Software Dev, UI/UX, Game Dev, DevOps
+
+### Projects (Selection)
+
+| Projektname        | Beschreibung                                  |
+|--------------------|-----------------------------------------------|
+| `EnvelopeBaskd`    | LetterBoxd website clone as part of the       |
+|                    |  module "Einführung in die Webprogrammierung" |
+|                    |                                               |
+| `DB-Scraper`       | Web scraper for routine train journeys for    |
+|                    | commuters. Intended for RasberryPi connection |
+
+
+### Contact
+
+- 📯 LinkedIn: [yet to come](https://linkedin.com/in/placeholder)
+
+---
+
+<p align="center">
+  <img src="https://placehold.co/600x100?text=Thanks+for+visiting!" alt="Footer" />
+</p>
