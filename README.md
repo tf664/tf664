@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://placehold.co/800x200?text=Hi%2C+ich+bin+<your-username>!" alt="Header Image" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" alt="Header Image" />
 </p>
 
 <p align="center">
