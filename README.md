@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" alt="Header Image" />
+  <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxmNjcxYzNyNWh3ODdzdGVndm94dDl1NWFhYWpjd2x0YW93a2QwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" alt="Header Image" />
 </p>
 
 <p align="center">
@@ -42,7 +42,9 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 
 - 📯 LinkedIn: [bald](https://linkedin.com/in/placeholder)
 
----
+--- <p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt0dm56ZW5oMG95bWFpejExNzJ2c3ptdWJlc3BqaHA5bGtjdWxvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tj9MTUMTYNCGurm7Hq/giphy.gif" alt="Header Image" />
+</p>
 
 ## 🇬🇧 English <a id="en"></a>
 
@@ -79,5 +81,5 @@ In my free time, I'm partly building **random projects** or learning new tech
 ---
 
 <p align="center">
-  <img src="https://placehold.co/600x100?text=Thanks+for+visiting!" alt="Footer" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" alt="Footer" />
 </p>
