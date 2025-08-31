@@ -55,8 +55,8 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 
 <p align="center">
 <a href="https://github.com/tf664">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tf664&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tf664&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tf664&show_icons=true&theme=midnight_purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tf664&layout=compact&langs_count=8&theme=midnight_purple"/>
 </a>
 </p>
 
@@ -106,6 +106,15 @@ In my free time, I'm partly building **random projects** or learning new tech
       </tr>
     </tbody>
   </table>
+
+### GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/tf664">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tf664&show_icons=true&theme=midnight_purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tf664&layout=compact&langs_count=8&theme=midnight_purple"/>
+</a>
+</p>
 
 ### Contact
 
