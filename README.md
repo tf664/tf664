@@ -85,8 +85,6 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 - 
   <!-- Side GIF -->
   <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
-</div>
---- 
 
 ## 🇬🇧 English <a id="en"></a>
 
