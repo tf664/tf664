@@ -51,14 +51,22 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
   </table>
   </div>
 
-  <!-- Side GIF -->
-  <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
-</div>
+### GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/tf664">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tf664&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### Kontakt
 
 - 📯 LinkedIn: [bald](https://linkedin.com/in/placeholder)
-
+- 
+  <!-- Side GIF -->
+  <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
+</div>
 --- 
 
 ## 🇬🇧 English <a id="en"></a>
