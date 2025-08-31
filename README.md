@@ -11,10 +11,9 @@
 
 ## 🇩🇪 Deutsch <a id="de"></a>
 
-###  Hallöchen!
+###  N'Abend!
 
 Ich bin ein dualer Student in **Informatik** an der **IU in Düsseldorf** und arbeite bei Babtec GmbH
-
 In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Technik
 
 ### About Me
@@ -23,9 +22,6 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 -  Dualer Informatik Student an der IU
 -  Praxispartner: **Babtec GmbH**
 -  Düsseldorf
--  Tech Stack: hauptsächlich C#,Java, Web (HTML/CSS/JS), .NET, Azure DevOps, YAML, Git
--  Interessen: Softwareentwicklung, UI/UX, Game Dev, DevOps
-
 
 ### Projekte (Auswahl)
 
@@ -97,7 +93,6 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 ###  Hello there!
 
 I'm a dual student in **Computer Science** at **IU International University in Düsseldorf**, working at **Babtec GmbH** alongside my studies.
-
 In my free time, I'm partly building **random projects** or learning new tech
 
 ### About Me
@@ -106,8 +101,6 @@ In my free time, I'm partly building **random projects** or learning new tech
 -  Dual student at IU (Computer Science)
 -  Practical partner: **Babtec GmbH**
 -  Based in: Düsseldorf, Germany
--  Tech Stack: mostly C#,Java, Web (HTML/CSS/JS), .NET, Azure DevOps, YAML, Git
--  Interests: Software Dev, UI/UX, Game Dev, DevOps
 
 ### Projects (Selection)
 <div>
