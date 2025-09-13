@@ -44,8 +44,8 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
         <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
       </tr>
       <tr>
-        <td><code>Five Stars Aways</code></td>
-        <td>[Five Stars away](https://zacdevdude.itch.io/five-stars-away) Intergalaktischer Hospitalitätssimulator für den Gamepathy Game-Jam 2025 Karlsruhe entstanden </td>
+        <td><code><a href="https://zacdevdude.itch.io/five-stars-away">Five Stars Away</a></code></td>
+        <td> Intergalaktischer Hospitalitätssimulator für den Gamepathy Game-Jam 2025 Karlsruhe entstanden </td>
       </tr>
     </tbody>
   </table>
@@ -122,9 +122,9 @@ In my free time, I'm partly building **random projects** or learning new tech
         <td><code>DB-Scraper</code></td>
         <td> Web scraper for routine train journeys for commuters. Intended for RasberryPi connection</td>
       </tr>
-       <tr>
-        <td><code>Five Stars Aways</code></td>
-        <td>[Five Stars away](https://zacdevdude.itch.io/five-stars-away) Intergalaktischer hospitality simulator created during Gamepathy Game-Jam 2025 in Karlsruhe, Germany </td>
+      <tr>
+        <td><code><a href="https://zacdevdude.itch.io/five-stars-away">Five Stars Away</a></code></td>
+        <td>Intergalactic hospitality simulator created during Gamepathy Game-Jam 2025 in Karlsruhe, Germany </td>
       </tr>
     </tbody>
   </table>
