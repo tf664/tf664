@@ -96,7 +96,7 @@ In meiner Freizeit arbeite ich an zufälligen/verschiedenen kleinen Projekten od
 
 <br>
 
-- <!-- Side GIF -->
+<!-- Side GIF -->
 <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
 
 ---
