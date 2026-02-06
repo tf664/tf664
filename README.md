@@ -11,17 +11,17 @@
 
 ## 🇩🇪 Deutsch <a id="de"></a>
 
-###  N'Abend!
+### N'Abend!
 
 Ich bin ein dualer Student in **Informatik** an der **IU in Düsseldorf** und arbeite bei Babtec GmbH
-In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Technik
+In meiner Freizeit arbeite ich an zufälligen/verschiedenen kleinen Projekten oder lerne neue Technik mit größeren Fokus auf IT-Sicherheit und retro Design.
 
 ### About Me
 
 - 🏳️‍🌈 🚩🏴
--  Dualer Informatik Student an der IU
--  Praxispartner: **Babtec GmbH**
--  Düsseldorf
+- Dualer Informatik Student an der IU
+- Praxispartner: **Babtec GmbH**
+- Düsseldorf
 
 ### Projekte (Auswahl)
 
@@ -36,16 +36,24 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
     </thead>
     <tbody>
       <tr>
-        <td><code>EnvelopeBaskd</code></td>
-        <td>LetterBoxd Websiteklon im Rahmen des Moduls "Einführung in die Webprogrammierung"</td>
+      <td><code><a href="https://play.google.com/store/apps/details?id=krowa.studios.morseterminaltranslator&utm_source=emea_Med">Morse Code Terminal Translator</a></code></td>
+      <td> Morse Code Übersetzer App im retro Terminal Design im Google Playstore veröffentlicht </td>
+      </tr>
+            <tr>
+        <td><code><a href="https://worldwidewizard.vercel.app/">World Wide Wizard</a></code></td>
+        <td>Online Version von dem Kartenspiel "Wizard" von Amigo (Derzeit fehlt eine Server-Anbindung)</td>
+      </tr>
+    <tr>
+        <td><code><a href="https://zacdevdude.itch.io/five-stars-away">Five Stars Away</a></code></td>
+        <td> Intergalaktischer Hospitalitäts-Simulator für den Gamepathy Game-Jam 2025 Karlsruhe entstanden </td>
       </tr>
       <tr>
         <td><code>DB-Scraper</code></td>
-        <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für RasberryPI Anbindung</td>
+        <td>Webscraper für routinierte Zugfahrten für Pendler. Angedacht für Raspberry-PI Anbindung</td>
       </tr>
-      <tr>
-        <td><code><a href="https://zacdevdude.itch.io/five-stars-away">Five Stars Away</a></code></td>
-        <td> Intergalaktischer Hospitalitätssimulator für den Gamepathy Game-Jam 2025 Karlsruhe entstanden </td>
+    <tr>
+        <td><code>C# 2D Black Hole Simulator</code></td>
+        <td> Kleine WinForms Anwendung, die in einem 2 dimensionalen Raum ein schwarzes Loch simuliert </td>
       </tr>
     </tbody>
   </table>
@@ -74,7 +82,6 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
-
 <p align="center">
 <a href="https://github.com/tf664">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tf664&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -85,45 +92,59 @@ In meiner Freizeit arbeite ich teilweise an random Projekten oder lerne neue Tec
 ### Kontakt
 
 - 📯 LinkedIn: [bald](https://linkedin.com/in/placeholder)
-- 
-  <!-- Side GIF -->
-  <img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
+- ▶️ Playstore: [Krowa Studios](https://play.google.com/store/apps/developer?id=Krowa+Studios&utm_source=emea_Med)
+
+<br>
+
+- <!-- Side GIF -->
+<img src="https://media3.giphy.com/media/Tj9MTUMTYNCGurm7Hq/giphy.gif" width="200" alt="Side Image" />
+
+---
 
 ## 🇬🇧 English <a id="en"></a>
 
-###  Hello there!
+### Hello there!
 
 I'm a dual student in **Computer Science** at **IU International University in Düsseldorf**, working at **Babtec GmbH** alongside my studies.
-In my free time, I'm partly building **random projects** or learning new tech
+In my free time, I occasionally build small projects focusing mostly on retro design and IT-security
 
 ### About Me
 
 - 🏳️‍🌈 🚩🏴
--  Dual student at IU (Computer Science)
--  Practical partner: **Babtec GmbH**
--  Based in: Düsseldorf, Germany
+- Dual student at IU (Computer Science)
+- Practical partner: **Babtec GmbH**
+- Based in: Düsseldorf, Germany
 
 ### Projects (Selection)
+
 <div>
- <table>
+    <table>
     <thead>
       <tr>
-        <th>Projektname</th>
-        <th>Beschreibung</th>
+        <th>project name</th>
+        <th>project description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><code>EnvelopeBaskd</code></td>
-        <td> LetterBoxd website clone as part of the module "Einführung in die Webprogrammierung"</td>
+      <td><code><a href="https://play.google.com/store/apps/details?id=krowa.studios.morseterminaltranslator&utm_source=emea_Med">Morse Code Terminal Translator</a></code></td>
+      <td> Morse Code Translator app in a retro terminal design. Published on Google Playstore </td>
+      </tr>
+            <tr>
+        <td><code><a href="https://worldwidewizard.vercel.app/">World Wide Wizard</a></code></td>
+        <td>Online version of the card game "Wizard" by Amigo (no server connection, due to costs)</td>
+      </tr>
+    <tr>
+        <td><code><a href="https://zacdevdude.itch.io/five-stars-away">Five Stars Away</a></code></td>
+        <td>Intergalactic hospitality simulator created during Gamepathy Game-Jam 2025 in Karlsruhe, Germany </td>
       </tr>
       <tr>
         <td><code>DB-Scraper</code></td>
         <td> Web scraper for routine train journeys for commuters. Intended for RasberryPi connection</td>
       </tr>
-      <tr>
-        <td><code><a href="https://zacdevdude.itch.io/five-stars-away">Five Stars Away</a></code></td>
-        <td>Intergalactic hospitality simulator created during Gamepathy Game-Jam 2025 in Karlsruhe, Germany </td>
+    <tr>
+        <td><code>C# 2D Black Hole Simulator</code></td>
+        <td> Small WinForms application simulating a black hole in a 2 dimensional space </td>
       </tr>
     </tbody>
   </table>
@@ -152,7 +173,6 @@ In my free time, I'm partly building **random projects** or learning new tech
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
-
 <p align="center">
 <a href="https://github.com/tf664">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tf664&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -163,9 +183,10 @@ In my free time, I'm partly building **random projects** or learning new tech
 ### Contact
 
 - 📯 LinkedIn: [yet to come](https://linkedin.com/in/placeholder)
+- ▶️ Playstore: [Krowa Studios](https://play.google.com/store/apps/developer?id=Krowa+Studios&utm_source=emea_Med)
 
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" width="650" alt="Footer" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pnbG51dXZkcjNwMjNncTR6MGVuaGE3NmNrZjA4YWduMHo4eDBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcntJ8502JIXIqp7u9/giphy.gif" width="450" alt="Footer" />
 </p>
